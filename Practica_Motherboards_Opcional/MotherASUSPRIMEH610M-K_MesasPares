@@ -1,0 +1,25 @@
+Caracteristicas
+Socalos: Socket Intel®️ LGA 1700: Listo para procesadores Intel®️ de 12a y 13a Gen.
+Chipset: Intel H610 Chipset
+Cantidad de Slots PCI-e (16x y 1x): Intel® 13th & 12th Gen Processors 1 x PCIe 4.0 x16 slot, Intel® H610 Chipset 1 x PCIe 3.0 x1 slot
+Puertos SATA: 4 x SATA 6Gb/s ports
+Tipo de Memoria soportada:2 x DIMM, Max. 64GB, DDR4 3200/3000/2933/2800/2666/2400/2133 Non-ECC, Un-buffered Memory* Dual Channel Memory Architecture, Supports Intel® Extreme Memory Profile (XMP)
+Cantidad de Slots de memoria: 2
+Cantidad de puertos USB (2.0 y 3.0):Rear USB (Total 6 ports) 2 x USB 3.2 Gen 1 ports (2 x Type-A), 4 x USB 2.0 ports (4 x Type-A). Front USB (Total 4 ports) 1 x USB 3.2 Gen 1 header supports additional 2 USB 3.2 Gen 1 ports, 1 x USB 2.0 header supports additional 2 USB 2.0 ports
+Posee slots para discos M.2?: 1 M.2 slot (Key M), type 2242/2260/2280 (supports PCIe 3.0 x4 & SATA modes)
+Otras características que deseen especificar: Graficos 1 x D-Sub port 1 x HDMI® port
+
+¿Qué tipo de procesadores son compatibles con la motherboard especificada?
+
+Intel® Socket LGA1700 for 13th Gen Intel® Core™ Processors & 12th Gen Intel® Core™, Pentium® Gold and Celeron® Processors*
+Supports Intel® Turbo Boost Technology 2.0 and Intel® Turbo Boost Max Technology 3.0
+
+¿De los siguientes procesadores cuales son compatibles con la motherboard?
+
+a. Procesador Intel Celeron G4900 3.10GHz Socket 1151
+   NO
+b. Procesador Intel Core i7 12700K 5.0GHz Turbo
+   SI
+c. ¿Porque son compatibles o incompatibles?
+   El procesador A no es compatible porque nuestra placa madre es para procesadores Intel® de 12a y 13a Gen y el procesador A es para procesadores Intel de 6ª, 7ª, 8ª y 9ª generación. 
+   Y el procesador B si es compatible porque es para Procesadores Intel® Core™ i7 de 12ᵃ Generación
