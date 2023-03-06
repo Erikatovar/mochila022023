@@ -1,0 +1,33 @@
+a) ¿Quién inventó el sistema de control de versión Git y por qué?
+
+GIt es un proyecto de código abierto maduro y con un mantenimiento activo
+que desarrolló originalmente Linus Torvalds, el famoso creador del Kernel
+del sistema operativo Linux, en 2005. Git, que presenta una arquitectura
+distribuida, es un ejemplo de DVCS (Sistema de Control de versiones
+distribuido, por sus siglas en inglés). En lugar de tener un único espacio
+para todo el historial de versiones del software, como sucede de manera
+habitual en los sistemas de control de versiones antaño populares, como CVS
+o Subversion (también conocido como SVN), en Git, la copia del trabajo del
+código de cada desarrollador es también un repositorio que puede albergar
+el historial completo de todos los cambios. Git, se ha diseñado teniendo en
+cuenta el rendimiento, la seguridad y la flexibilidad. Su propósito es llevar
+registro de los cambios en archivos de computadora incluyendo coordinar 
+el trabajo que varias personas realizan sobre archivos compartidos en un 
+repositorio de código.
+
+b) ¿A quién le pertenece actualmente Github y por qué?
+
+Github es una plataforma de desarrollo colaborativa. El 4 de junio de 2018,
+Microsoft Corporation compró Github por la cantidad de 7500 millones de
+dólares. En ese mismo año, Github fue víctima del segundo mayor ataque de 
+denegación de servicio (DDoS) de la historia. Llegando a recibir un tráfico
+de 1.35 terabits por segundo. La adquisición de Github por parte de Microsoft
+es un paso más en la inclinación para enfocarse todo lo posible al desarrollo,
+haciendo una vez más hincapié en que el núcleo de la empresa lo forman los
+desarrolladores y nada más.
+
+c) ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si claro, si se quiere trabajar con Git de formal local, pero no se quiere 
+utilizar la linea de comandos, se puede desargar e instalar en su lugar el
+cliente GitHub Desktop.
