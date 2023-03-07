@@ -1,0 +1,10 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+b. ¿A quién pertenece actualmente Github y por qué?
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+
+a. Git fue creado por Linus Torvalds en 2005. El también fue el creador del kernel de Linux.
+
+b. Actualmente, Github pertenece a Microsoft Corporation. En 2018, Microsoft adquirió Github por $ 7.5 mil millones de dólares. 
+
+c. Sí, existen varias aplicaciones y herramientas gráficas que se pueden utilizar para trabajar con Github sin tener que usar la terminal, por ejemplo, Github Desktop, GitKraken, entre otros, lo que las hace más accesibles para los usuarios que prefieren una interfaz mas sencilla que la linea de código.
