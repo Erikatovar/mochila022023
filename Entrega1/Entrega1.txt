@@ -1,0 +1,15 @@
+Juegos:
+Plants vs. Zombies: 2	
+Coded Arms: 49,8	
+Street Fighter 3 Alpha Max: 78,2	
+Need For Speed Carbon: 121	
+Resident Evil 3: Nemesis: 363	
+Driver: 491,4	
+Metal Slug Anthology: 663	
+Burnout Dominator: 682	
+MotorStorm Artic Edge: 752	
+Crash Tag Team Racing: 834	
+PES 2013: 975
+
+Peso máximo: 6144MB.
+Peso alcanzado: 5011,4MB.
