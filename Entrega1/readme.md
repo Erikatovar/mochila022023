@@ -1,0 +1,7 @@
+# Entrega 1 
+
+Creamos una tabla en google sheets en donde pasamos todos los tamaños a GB.
+Ordenamos de menor a mayor y nos fijamos en la mayor cantidad de juegos que entran en la memoria de la consigna (32gb).
+
+> Para ver la tabla, entrar a este link:
+https://docs.google.com/spreadsheets/d/1is1SnY5kMSU1Bl7R5eThb5q-k8NSkYvbAGMkukjVGOc/edit?usp=sharing
