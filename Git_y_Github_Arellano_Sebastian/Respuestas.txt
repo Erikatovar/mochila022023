@@ -1,0 +1,3 @@
+1-Linus Torvalds es el inventor del sistema de control de versión y lo creo para posibilitar la ramificación y el etiquetado como procesos de primera importancia
+2-Podemos utilizar GitHub Desktop para crear y administrar un repositorio de Git sin utilizar la línea de comandos.ece a Microsoft ya que lo compro el 4 de junio 2018 y porque la compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más
+3-
