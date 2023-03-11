@@ -1,0 +1,81 @@
+COMANDOS GIT VISTOS HASTA AHORA Y EXPLICADOS:
+
+tkdir: Crear una carpeta
+
+touch: Crear un archivo
+
+rm -r: Eliminar una carpeta y todo su contenido
+
+rmdir: Eliminar una carpeta vacía
+
+rm: Eliminar un archivo
+
+ls: Listar archivos en la carpeta o directorio
+
+ls -l: Mostrar la información de una carpeta (Hora de creación, usuario, fecha, etc)
+
+ls -a: Listar todos los archivos (también los ocultos)
+
+ls -r: Mostrar las carpetas y sus archivos
+
+more: Mostrar el contenido del archivo
+
+pwd: Mostrar la carpeta en la cual se está trabajando en este instante
+
+nano: Crea archivos, o puede modificar su contenido
+
+git init: Crear un repositorio local
+
+git config user.name: Poner un nombre de usuario así GitHub puede hacer un seguimiento del repositorio
+
+git config user.email: Poner un email de usuario así GitHub puede hacer un seguimiento del repositorio
+
+Git config --global user.name: Poner un nombre de usuario permanente para todos los repositorios que se creen
+
+Git config --global user.email: Poner un email de usuario permanente para todos los repositorios que se creen
+
+git add: agregar archivos al repositorio
+
+git commit -m: Capturar una instantánea de los cambios preparados en ese momento para el proyecto
+
+git status: Mostrar el estado de los archivos del repositorio
+
+git log: Mostrar el estado de los commits hechos
+
+git rm -rf: Eliminar un repositorio
+
+git remote add origin url: Conectar repositorio local con el remoto
+
+git remote -v: Verificar que la conexión entre dispositivos se haya ejecutado
+
+Git push origin main: Sube al repositorio en la nube los cambios hechos en el repositorio local
+
+git pull origin main: Actualizar el repositrio local con el de la nube
+
+git clone url: Clonar un repositorio y todo su contenido
+
+git branch nombre de rama: Crear una nueva rama
+
+git branch: Ver la cantidad de ramas existentes
+
+git checkout: Cambiar de rama
+
+.: Hacer referencia al directorio donde estamos en este instante
+
+mv: Renombrar archivos o carpetas, mover archivos entre carpetas
+
+cp: Copiar un archivo o una carpeta
+
+cp -r: Copiar el contenido de las subcarpetas
+
+cd: cambiar de carpeta
+
+cd ..:Volver a la carpeta anterior
+
+clear: Limpiar la pantalla de la terminal
+
+Ctrl + l: Limpiar la pantalla de la terminal
+
+Ctrl + c: Finalizar un proceso que esta corriendo en la terminal
+
+-help: Mostrar ayuda con el comando que estamos intentando utilizar
