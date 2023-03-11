@@ -1,8 +1,0 @@
-A )
-Hoy en día Git es el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro que cuenta con un mantenimiento activo que fue desarrollado por Linus Torvalds. Git se ideó para posibilitar la ramificación y el etiquetado como procesos de primera importancia, y las operaciones que afectan a las ramas y las etiquetas también se almacenan en el historial de cambios.
-
-B )
-El 4 de junio de 2018 Microsoft compró GitHub por una suma importante de dinero. Esta compra es un paso más en la inclinación de Microsoft para enfocarse todo lo mayor posible al desarrollo, haciendo hincapié en el núcleo de la empresa que lo forman los desarrolladores y nada más.
-
-C )
-Sí, es posible. Se puede trabajar con GitHub de forma local sin la necesidad de usar la línea de comandos instalando el cliente GitHubDesktop.
