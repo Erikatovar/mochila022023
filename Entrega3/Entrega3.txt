@@ -1,0 +1,11 @@
+1. Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Puede que un lenguaje de programacion solo pueda utilizarse en algunos sistemas operativos y no en otros, debido a las diferencias en arquitectura del procesador, la biblioteca de funciones el sistema de archivos y la implementacion del lenguaje de programacion
+
+2. Que tipo de maquina virtual soporta VirtualBox?
+Los sistemas opertaivos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT, 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6) OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4. 
+
+3. Que funcion cumple el hypervisor en la virtualizacion?
+Un hypervisor es un proceso que crea y ejecuta maquinas virtuales. Permite que un ordenador host preste soporte a varias maquinas virtualies invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento. 
+
+4. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas?
+No. Cada maquina virtual se ejecuta de forma aisalda y se comporta como si fuera un sistema independiente, por lo que cualquier problema o fallo que ocurra en una maquina virtual no deberia tener un impacto directo en las demas maquinas virtuales. 
