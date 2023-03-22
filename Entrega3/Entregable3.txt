@@ -1,0 +1,7 @@
+Por que un lenguaje de programacion compila al lenguaje ensamblador el cual es ejecutado por cada sistema operativo. Los lenguajes ensambladores dependen de la arquitectura del procesador y la interpretacion que le de el sistema operativo.
+
+Los sistemas operativos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+
+Es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas
+
+Si una maquina virtual falla no perjudicara a las restantes.
