@@ -4,4 +4,4 @@ R-2 : Los sistemas operativos que puede emular VirtualBox son Windows(3.x, 95, 9
 
 R-3 : Un hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
 
-R-4 : Si una de nuestras maquinas virtuales por alguna razon fallara, tuviese un  virus u otra cosa. Solo estaria comprometida esa maquina y nada mas, ya  que desde su punto de vista ella no sabe que es una maquina virtual.
+R-4 : Si una de nuestras maquinas virtuales por alguna razon fallara, tuviese un  virus u otra cosa. Solo estaria comprometida esa maquina y nada mas, ya  que desde su punto de vista ella no sabe que es una maquina virtual/.
