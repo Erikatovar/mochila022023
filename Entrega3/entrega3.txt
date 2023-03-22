@@ -1,0 +1,8 @@
+1. ¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+
+4. Si tengo más de una máquina virtual instalada, y se rompe, ¿esto afecta a las demás? ¿Por qué?
+
