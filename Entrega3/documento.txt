@@ -1,0 +1,13 @@
+1- Por qué un lenjuage de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+ -Para que un lenguaje de programación funcione necesita un compilador o un intérprete para ese lenguaje, es decir, que el lenguaje de programación no esta limitado a un sistema operativo en particular, solo que necesita si o si de un compilador o un intérprete para que funcione correctamente.
+
+2- Qué tipo de máquina virtual soporta virtualBox?
+-Soporta Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4
+
+3-Qué función cumple el hypervisor en la virtualización?
+-Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+4-Si tengo más de una máquina virtual instalada, y una se rompe. Esto afecta a las demás? Por qué?
+-Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
+
