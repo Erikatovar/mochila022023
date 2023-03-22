@@ -1,0 +1,36 @@
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+Porque cada sistema operativo responde a una forma de comunicarse con el hardware de manera distinta, lo que hace que algunos sean más apropiados que otros para determinadas tareas
+Aunque un lenguaje de programación en sí mismo, es independiente del sistema operativo en que se ejecuta. Sin embargo, generalmente se compila o interpreta para ejecutarse en un sistema operativo especifico. 
+
+Los servicios y funciones propios del SO son utilizados por aplicaciones para interactuar con el hardware y otros recursos del sistema, los que son propios del sistema operativo y por tanto, el código debe estar diseñado específicamente para ese sistema operativo.
+
+Además, los lenguajes de programación pueden depender de ciertas bibliotecas o herramientas que solo están disponibles en sistemas operativos especificos. 
+
+En conclusión, aunque el lenguaje de programación es independiente del sistema operativo, el código escrito en ese lenguaje puede depender del sistema operativo y de sus servicios y funciones, lo que limita su portabilidad entre diferentes sistemas operativos. 
+
+¿Qué tipo de máquina virtual soporta VirtualBox?
+
+
+1. Windows (desde windows 3 hasta windows 10)
+2. Linux
+3. macOS
+4. Solaris
+5. FreeBSD
+6. DOS/Windows 3.x
+7. OS/2
+8. Open BSD
+9. NetBSD
+10. Haiku
+11. ReactOS
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Es un software utilizado para la virtualización de sistemas. Su principal función, es crear y administrar máquinas virtuales, lo que permite que múltiples SO y apps se ejecuten en un solo servidor físico.
+
+Actúa como una capa de abstracción entre el hardware físico del servidor y las máquinas virtuales que se ejecutan en él. Cada máquina virtual se ejecuta como si fuera una instancia independiente del SO y la app.
+
+Si tengo más de una máquina virtual instalada y una se rompe ¿esto afecta a las demás? ¿por qué? 
+
+No afectará a las demás máquinas virtuales que se ejecutan en el mismo servidor. Esto se debe a que cada máquina virtual se ejecuta en un entorno aislado, lo que significa que sus recursos y procesos están separados de los de otras máquinas virtuales. 
+
+A menos, que la falla se deba a un problema de hardware. 
