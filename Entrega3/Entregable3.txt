@@ -1,0 +1,8 @@
+1.- Un lenguaje de programacion puede ser implementado en difirentes sistemas operativos, pero para ejecutarse en un sistema operativo especifico, debe estar disponible una implementacion adecuada del compilador, interprete y/o librerias del lenguaje. Ademas algunos lenguajes de programacion estan disenados especificamente para ciertos sistemas operativos y no son facilmente portables a otros sistemas.
+
+2.- VirtualBox soporta varias maquinas virtuales, incluyendo maquinas virtuales que ejecutan sistemas operativos Windows, Linux, Solaris y macOS. VirtualBox utiliza una maquina virtual propia llamada "VirtualBox Guest Additions" para proporcionar un mejor soporte para los sistemas operativos invitados.
+
+3.- El hypervisor es un software que se ejecuta en el nivel del hardware de un sistema informatico y se encarga de gestionar y controlar el acceso de multiples sistemas operativos invitados a los recursos fisicos del sistema anfitrion, como la CPU, la memoria y los dispositivos de entrada/salida. El hypervisor permite la virtualizacion de multiples sistemas opertaivos en una sola maquina fisica.
+
+4.- Si una maquina virtual se rompe, esto no deberia afectar a las otras maquinas virtuales en la misma maquina fisica. Esto se debe a que cada maquina virtual se ejcuta en un entorno aislado, utilizando sus propios recursos virtuales. Sin embargo, si el problema es en la maquina virtual afecta al hipervisor o al sistem,a anfitrion, todas las maquinas virtuales pueden verse afectadas. Es por ello que es importante tener siempre copias de seguridad y un plan de recuperacion ante desastres para minimizar cualquier impacto.
+
