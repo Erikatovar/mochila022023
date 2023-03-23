@@ -1,0 +1,16 @@
+1. Porque un lenguaje de programacion compila todo a lenguaje de codigo maquina para que el sistema operativo lo ejecute, y ese codigo maquina va a depender de la arquitectura del procesador y de la interpretacion que el sistema operativo le de. Por lo tanto si algunas de esas dos caracteristicas no es compatible con el lenguaje de programacion, este no va a poder correrse en el sistema operativo en cuestion.
+
+2. VirtualBox es capaz de virtualizar los siguientes sistemas operativos:
+	FreeBSD
+	GNU/Linux
+	OpenBSD
+	OS/2 Warp
+	Windows
+	Solaris
+	MS-DOS
+	Genode
+	Otros
+
+3. El hypervisor le permite a un ordenador prestarle soporte a las maquinas virtuales proporcionandoles los recursos fisicos necesarios que la maquina fisica posee, tales como la memoria y el procesador (permite compartir virtualmente los recursos).
+
+4. Si una VM se rompe, no afecta en nada a las demas maquinas, ya que cada VM es independiente de las demas.
