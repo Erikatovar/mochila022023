@@ -1,0 +1,24 @@
+A.¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+B.¿Qué tipo de máquina virtual soporta virtualBox?. 
+C.¿Qué función cumple el hypervisor en la virtualización?
+D.Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+A. Un lenguaje de programacion puede estar disponible en algunos
+ sistemas operativos y no en otros. Una razon es que el lenguaje de 
+programacion depende de ciertas bibliotecas o herramientas que solo
+ están disponibles en ciertos sistemas operativos. 
+Ejemplo, Swift que es de Apple solo se puede utilizar en sistemas
+ operativos macOS e iOS porque depende de las bibliotecas especificas
+ de Apple.
+B.VirtualBox soporta diferentes tipos de maquinas virtuales, 
+incluyendo sistemas operativos de 32 y 64 bits. Algunos de los
+ sistemas operativos soportados por VirtualBox incluyen Windows,
+ Linux, macOS y Solaris.
+C.El hypervisor crea y administra multiples maquinas virtuales 
+en un unico sistema físico. Su funcion es asignar y administrar 
+los recursos del sistema físico para que las máquinas virtuales 
+puedan funcionar de manera aislada, y establecer las conexiones 
+entre las máquinas virtuales y la máquina física para que el 
+software en cada máquina virtual pueda interactuar con el hardware.
+D.No, no afectan ya que son como un *mundo* aislado (dependiendo
+de la configuracion).
