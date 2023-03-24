@@ -1,0 +1,7 @@
+1) Depende de la arquitectura de la computadora en la que se compile el programa y en la que se ejecute. Para que pueda fucionar correctamente la computadora de destino debe de tener una arquitectura similar, es decir, arquitectura del CPU similar al igual que el sistema operativo. Por ejemplo, hay determinados lenguajes de programacion que fueron creados para ser compilados y ejecutados en ambientes Windows.
+
+2) VirtualBox soporta maquinas virtuales del tipo "sistemas". En ella se podran instalar una gama muy amplia de  sistemas operativos:  Windows (NT 4.0, 2000, XP, Server 2003, Vista, Windows 7, Windows 8, Windows 10), DOS/Windows 3.x, Linux (2.4, 2.6, 3.x and 4.x), Solaris and OpenSolaris, OS/2, and OpenBSD. 
+
+3) El Hipervisor es una capa de software cuya funcion es asignar, entre otro recursos, parte de la memoria principal y secundaria ademas de CPU. Los de tipo 1 corren directamente sobre la parte fisica de la computadora y los de tipo 2 sobre un sistema operativo. VirtualBox es del tipo 2
+
+4) No, no afecta. Una de las ventajas de las maquinas virtuales es la independencia entre ellas. La virtualizacion nos permite emular varias computadoras dentro de una. Generalmente las maquinas virtuales se utilizan para probar ciertos programas y ver su comportamiento, al igual que virus o malware, teniendo la tranquilidad de que si algo se rompe o falla, solo ocurrira en esa maquina virtual, no en las otras.
