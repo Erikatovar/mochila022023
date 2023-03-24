@@ -1,0 +1,59 @@
+﻿INTRODUCCIÓN A LA INFORMÁTICA
+
+
+TAREA 3 - MOCHILA
+
+
+MAURICIO RODRIGUEZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+En formato TXT,  resolver el siguiente cuestionario:
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+El lenguaje en sí no sería el problema, se puede usar un editor de texto en cualquier sistema operativo. El problema es que al compilar el programa, debemos decidir la plataforma de destino.
+
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?. 
+
+
+Los sistemas operativos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+
+
+
+
+
+
+
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+
+
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+
+4. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+
+No afectará al funcionamiento del resto. Cada máquina es independiente, lo que puede afectar es el consumo de los recursos del hardware de nuestra pc.
+
+
+5. Subir este archivo a la mochila del viajero desde la máquina virtual.
