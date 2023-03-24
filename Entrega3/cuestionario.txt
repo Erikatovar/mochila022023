@@ -1,6 +1,0 @@
-1) un lenguaje de programcion solo puede utilizarse en un sistema operativo que sea 
-igual y una estructura que sea igual sino muchas veces no funciona bien. para esto 
-se creo la maquina virtual para poder hacer programas para un SO y estructura 
-determinados y con libertad de poder acceder a todos los sistemas operativos
-
-2) 
