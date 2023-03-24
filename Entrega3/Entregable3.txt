@@ -1,0 +1,14 @@
+1¿por qué un lenguaje de programación solo puede usarse en algunos sistemas operativos?
+
+1)Esto se debe a que cada sistema operativo tiene diferente lenguaje por lo que todos no son igual. 
+si queremos usar el mismo lenguaje de programación necesitaremos un interprete o compilador para tener los mismo en los diferentes sitemas operativos
+
+2¿Qué tipo de maquina virtual soporta VirtualBox?
+2) Windows y Linux
+
+3¿Qué función cumple el hypervisor en la virtualización?
+2)Es una capa de software que se instala en la parte fisica del equipo para optener los recursos del mismo
+
+4Si tengo una maquina virtual instalada, y una se rompe ¿Esto afecta a las demas? ¿Por qué?
+4)No afecta a las demas maquinas ya que cada una cumple una función individual dentro del software de virtualización, en pocas palabras son maquinas toalmente diferentes y si se afecta una no daña a las demas. si se afectará el software de virtualización si afectarias todas las maquinas
+
