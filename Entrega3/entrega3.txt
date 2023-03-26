@@ -1,0 +1,10 @@
+1.Porque son nativos del sistema opertativo como tal y depende de como este los interprete.
+2.Virtual Box soporta maquinas virtuales con los siguientes sistemas operativos>
+-Linux
+-Solaris
+-BSD
+-Mac OS X/OS 2
+-Windows
+-Entre otros
+3.Es un proceso que crea y ejecuta maquinas virtuales.mediante el uso compartido de los recursos.
+4.No, porque son maquinas con ambientes o estados diferentes pero a pesar de que comparten recursos de la maquina principal.
