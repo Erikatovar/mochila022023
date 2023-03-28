@@ -1,0 +1,27 @@
+EJERCITACIÓN: 
+
+Tercera Entrega Parcial
+
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en 
+conjunto: 
+
+1) ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas 
+operativos y en otros no?
+R) La razón es que algunos sistemas operativos pueden no tener el conjunto de 
+librerías o herramientas necesarias para interpretar o compilar el 
+código de un lenguaje en particular. Además, el lenguaje podría estar diseñado para 
+funcionar de manera óptima en ciertos tipos de sistemas operativos o arquitecturas 
+de hardware, lo que podría hacer que su uso en otros sistemas operativos fuese más 
+difícil o menos eficiente. 
+
+2) ¿Qué tipo de máquina virtual soporta virtualBox?
+R) VirtualBox es una herramienta de virtualización multiplataforma que soporta la 
+creación y configuración de diferentes tipos de máquinas virtuales. VirtualBox 
+puede crear máquinas virtuales para sistemas operativos como Windows, Linux, 
+FreeBSD y Solaris, entre otros. En resumen, VirtualBox es capaz de crear máquinas 
+virtuales para diferentes tipos de sistemas operativos y arquitecturas de hardware.
+
+¿Qué función cumple el hypervisor en la virtualización?
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Subir este archivo a la mochila del viajero desde la máquina virtual.
