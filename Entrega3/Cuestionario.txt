@@ -1,0 +1,10 @@
+1.¿Por que un lengaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo
+
+2. ¿Que topos de maquina virtual soporta virtual box?
+Los sistemas operativos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+3. ¿Que funcion cumple hypervisor en la virtualizacion?
+Basicamente es el que trabaja sobre el sistema operativo o sobre el hardware y administra las maquinas virtuales que sean creadas
+4.¿Si tengo mas de una maquina virtual y una de estas se rompe, esto afecta en algo?
+No porque cada maquina virtual es diferente es como si fueran maquinad fisicas individuales y ninguna depende de la otra solo dependen de la maquina o sistema operativo sobre el que fueron creadas ya que si este no funciona no se pueden abrir las virtuales 
+
