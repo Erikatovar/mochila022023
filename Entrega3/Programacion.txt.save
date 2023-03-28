@@ -4,5 +4,5 @@
 
 3- Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
 
-4- Si se rompe una de las máquinas virtuales, no afectará al funcionamiento del resto ya que son maqunas independientes.
+4- Si se rompe una de las máquinas virtuales, no afectará al funcionamiento del resto ya que todo
 
