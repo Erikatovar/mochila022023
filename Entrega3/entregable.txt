@@ -1,0 +1,4 @@
+1) Un lenguaje de programacion se podra ejecutar en un sistema operativo siempre y cuando este tenga un compilador o interprete para poder ejecutarlo. De lo contrario ese lenguaje no se podra usar en ese sistema operativo.
+2) Virtual box soporta maquinas virtuales de sistemas.
+3) El hypervisor es una capa de software encargada de asignar los recursos fisicos que va a utilizar dicha maquina virtual.
+4) Se supone que las maquinas virtuales son independientes unas de otras por lo que si una se rompe no deberia afectar a las demas. 
