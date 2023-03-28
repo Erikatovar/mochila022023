@@ -1,0 +1,48 @@
+///////¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?///////
+
+Existen varios factores que pueden influir en la compatibilidad de un lenguaje de programación con diferentes sistemas operativos:
+
+1-Arquitectura de procesador: Los sistemas operativos están diseñados para funcionar en ciertas arquitecturas de procesador, como x86, ARM, MIPS, entre otras. Si un lenguaje de programación no es compatible con la arquitectura del procesador en el que se ejecutará el sistema operativo, no podrá utilizarse en ese sistema.
+
+2- Bibliotecas y APIs: Los sistemas operativos proporcionan una serie de bibliotecas y APIs que permiten a los programadores interactuar con el hardware y otros componentes del sistema. Si un lenguaje de programación no es compatible con estas bibliotecas y APIs, puede ser difícil o imposible utilizarlo en ese sistema.
+
+3- Herramientas de compilación y entorno de ejecución: Cada sistema operativo tiene su propia forma de compilar y ejecutar programas. Si un lenguaje de programación no tiene las herramientas de compilación y entorno de ejecución necesarios para el sistema operativo en cuestión, no podrá utilizarse en ese sistema.
+
+En resumen, un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no debido a las diferencias en la arquitectura de procesador, bibliotecas y APIs, y herramientas de compilación y entorno de ejecución de cada sistema operativo.
+
+//////¿Qué tipo de máquina virtual soporta virtualBox?.///////
+
+VirtualBox es un software de virtualización que es capaz de crear y ejecutar diferentes tipos de máquinas virtuales. VirtualBox es compatible con una amplia variedad de sistemas operativos de host, incluyendo Windows, macOS, Linux y Solaris, y es capaz de ejecutar una variedad de sistemas operativos invitados, incluyendo:
+
+-Windows (desde Windows 3.1 hasta Windows 10)
+-Linux (varias distribuciones como Ubuntu, Debian, CentOS, Red Hat, etc.)
+-macOS (desde OS X Snow Leopard hasta macOS Big Sur)
+-Solaris (desde Solaris 2.5 hasta Oracle Solaris 11)
+-FreeBSD
+-OpenBSD
+-OS/2
+-DOS
+Además, VirtualBox también es compatible con otros sistemas operativos menos comunes y también es posible crear máquinas virtuales personalizadas con VirtualBox.
+
+///////¿Qué función cumple el hypervisor en la virtualización///////
+
+El hypervisor (también conocido como VMM, Virtual Machine Monitor) es el componente central de la tecnología de virtualización. Es un software que se ejecuta en el nivel del hardware físico (también conocido como nivel de anillo 0) y se encarga de crear y administrar las máquinas virtuales (VMs).
+
+El hypervisor actúa como un intermediario entre el hardware físico y las máquinas virtuales que se ejecutan en él. Cada máquina virtual se ejecuta como un sistema operativo invitado en su propio entorno virtualizado, lo que le permite compartir los recursos físicos del sistema de manera segura y eficiente.
+
+El hypervisor se encarga de administrar el acceso a los recursos físicos del sistema, como el procesador, la memoria, el almacenamiento y los dispositivos de entrada/salida, y asigna estos recursos a las máquinas virtuales según sea necesario. También proporciona una capa de aislamiento entre las máquinas virtuales, lo que significa que una máquina virtual no puede interferir con el funcionamiento de otras máquinas virtuales en el sistema.
+
+En resumen, el hypervisor es responsable de la gestión y el control de las máquinas virtuales, y es fundamental para la virtualización, ya que permite que múltiples sistemas operativos se ejecuten en un solo hardware físico de manera segura y eficiente.
+
+/////////Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? ¿por qué?///////
+
+Si una máquina virtual se rompe o falla, generalmente no debería afectar a las otras máquinas virtuales que se estén ejecutando en el mismo sistema de virtualización. La razón principal de esto es que cada máquina virtual se ejecuta en un entorno aislado y separado del resto de las máquinas virtuales y del sistema operativo anfitrión.
+
+Cada máquina virtual tiene su propia memoria virtual, su propio sistema de archivos y su propio conjunto de recursos virtuales, como CPU, memoria y almacenamiento. Si una máquina virtual experimenta un fallo o se bloquea, esto puede ser debido a problemas en el sistema operativo invitado o en la configuración de la máquina virtual en sí, pero en general no debería afectar a las otras máquinas virtuales que se estén ejecutando en el mismo sistema de virtualización.
+
+Sin embargo, hay algunas situaciones en las que un problema en una máquina virtual podría afectar a otras máquinas virtuales. Por ejemplo, si una máquina virtual está utilizando recursos del sistema de manera intensiva, como la CPU o la memoria, podría causar que otras máquinas virtuales se ejecuten de manera más lenta o incluso se bloqueen si no hay suficientes recursos disponibles para todas ellas. También puede haber vulnerabilidades en el hypervisor que podrían permitir que una máquina virtual comprometida acceda a otras máquinas virtuales en el mismo sistema de virtualización.
+
+En general, es importante mantener cada máquina virtual actualizada y asegurarse de que tenga suficientes recursos asignados para evitar problemas de rendimiento o seguridad que puedan afectar a otras máquinas virtuales en el mismo sistema de virtualización.
+
