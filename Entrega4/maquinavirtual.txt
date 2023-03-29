@@ -1,0 +1,5 @@
+1- porque el lenguaje de programacion compilado en un lenguaje ensamblador que ejecuta el sistema operativo y depende del procesador e interpretacion del mismo.
+2-Windows, Linux, OS/2,NetBsd.
+3-el hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos como la memoria y procesamiento.
+4-No afecta el funcionamiento del resto.
+5-
