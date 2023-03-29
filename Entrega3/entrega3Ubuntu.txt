@@ -1,0 +1,7 @@
+R-1 : Se puede usar cualquier lenguaje de programacion mientas que en nuestro sistema operativo haya un compilador o un interprete para dicho lenguaje. Mas alla de la arquitectura del procesador o el sistema operativo que se utilice.
+
+R-2 : Los sistemas operativos que puede emular VirtualBox son Windows(3.x, 95, 98, ME NT4.0, 2000, XP, Server 2003, Vista), y los de Linux(2.2, 2.4 y 2.6), OS/2, NetBSD, OpenBSD, Netware, Solaris y L4. En algunos casos se debe de disponer de una licencia o clave para poder emular exitosamente con VirtualBox
+
+R-3 : Un hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+R-4 : Si una de nuestras maquinas virtuales por alguna razon fallara, tuviese un  virus u otra cosa. Solo estaria comprometida esa maquina y nada mas, ya  que desde su punto de vista ella no sabe que es una maquina virtual/.
