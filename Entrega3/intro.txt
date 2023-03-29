@@ -1,0 +1,11 @@
+1) Los lenguajes de programacion pueden no funcionar en algunos sistemas operativos cuando estos no comparten la aruitectura o la cpu.
+El codigo fuente se debera llevar a una maquina similar a la que se quiere ejecutar para que se compile correctamente y tener un problema ejecutable para dicha maquina
+
+2) virtualbox es soportada por una maquina virtual de sistemas
+
+3) La funcion que cumple el hypervisor es la de asignarle memoria, disco rigido, cpu y otros recursos fisicos
+es una capa de software que se instala sobre la capa fisica de la computadora
+
+4)Si tengo mas de un maquina virtual instalada y una se rompe esto no afectara  a las otras ya que son independientes.
+Muchos sistemas de virtualizacion permiten utilizar maquinas virtales con la opcion HA (high availability), esta funcionalidad asegura tener redundancia entre 2 o mas ambientes. Nos garantiza que ante la falla de uno 
+de los dos no exista una disrupcion del servicio.
