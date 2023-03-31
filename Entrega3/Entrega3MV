@@ -1,0 +1,7 @@
+1) Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+2) VirtualBox soporta máquinas virtuales de sistemas operativos.
+
+3) Es un software que crea y ejecuta máquinas virtuales y además aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+4) Las máquinas virtuales están instaladas en particiones aisladas una de otra, si se rompe una de estas, no afectaría las otras instaladas. Diferente sería si el disco en el cual están las máquinas virtuales se rompe, en ese caso si afectaría a todas.
