@@ -1,0 +1,8 @@
+1)La compatibilidad de un lenguaje de programacion con un sistema operativo depende de varios factores, como las dependencias de sistema, la aquitectura de hardware,la implementacion de lenguaje z las limitaciones de seguridad del sistema operativo.si alguno de estos factores no esta presente o es incompatible en el sistema operativo donde se intenta ejecutar el programa, puede que no funcione correctamente
+
+2) virtual box soporta windows macos linux solaris freebsd dos
+
+3)permite crear y gestionar multiples maquinas virtuales en una sola maquina fisica,proporcionando una capa de abstraccion y aislamiento que permite la ejecucion de multiples sistemas operativos y aplicaciones de manera segura y eficiente
+
+
+4)si una maquina virtual se rompe no rompe las demas ya que cada maquina virtual esta aisladas
