@@ -1,0 +1,9 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sitemas perativos y en otros no? Esto se debe a que el lenguaje de programación pasa por un proceso de compilación que tranforma el "código fuente" en "código máquina". 
+Para que este lenguaje pueda ser ejecutado, debe tener un sistema operativo y cpu similares a donde se creó.
+
+¿Qué tipo de máquina virtual soporta VirtualBox? Soporta Windows (NT 4.0, 2000, XP, Server 2003, Vista, Windows 7, Windows 8, Windows 10), DOS/Windows 3.x, Linux (2.4, 2.6, 3.x y 4.x), Solaris, OpenSolaris, OS/2, y OpenBSD.
+
+¿Que función cumple el Hipervisor en la virtualización? El hipervisor, permite que nuestro equipo (host), brinde soporte a más de una máquina virtual, mediante el uso virtual de rescursos, entre los que se encuentran la memoria y el procesador. 
+Además, Separa las máquinas virtuales entre si de una forma lógica, y le asigna a cada una una porción diferente de los recursos del host. 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿Esto afecta a las demás? ¿por qué? Si una máqiona virtual deja de funcionar, esto no afecta a las demás, ya que están separadas y tienen diferentes recursos asignados. 
