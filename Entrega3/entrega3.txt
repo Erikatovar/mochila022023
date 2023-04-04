@@ -1,0 +1,9 @@
+un lenjuage de codigo es solo una herramienta para escribir codigo, lo que determina si un lenjuaje puede ser utulizado o no es el compilador, por eso mismo, dependera de la arquitectura del procesador si se puede utilizar un lenguaje o no
+
+Vitual box soporta maquinas vituales del tipo nativas o las alojadas
+
+La principar funcion del hypervisor es permitir la creacion y gestion de multiples VM en un solo sistema fisico
+
+Si una maquina vitual instalada se rompe, no deberia afectar a las demas ya que opera en un entorno aislado a las demas 
+
+
