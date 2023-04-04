@@ -1,0 +1,18 @@
+IP sin VPN: 186.132.192.141
+
+IP Tor: 89.58.27.84
+
+IP Opera VPN: 77.111.246.44
+
+
+1) No, las IP públicas son diferentes porque al estar utilizando un VPN nos figura la IP del servidor VPN. 
+
+2) Sin utilizar la VPN no vamos a poder ver el video porque este es accesible solo para ciertas regiones y nuestro ISP bloquea la conexión. Para verlo deberíamos utilizar un VPN con la región accesible a dicho video.
+
+3) Si, utilizando TOR pude localizar mi IP de Tor, pero obviamente es diferente a nuestra IP pública. 
+
+4) Si, las velocidades en los test son diferentes, creo que es debido a que nos estamos conectando a otro ISP. 
+
+5) El valor del ping significa la latencia de conexión entre dos dispositivos, esta se mide en ms y cuanto mayor sea significa que mayor será el tiempo de respuesta de un dispositivo a otro. 
+6) El valor del ping varía entre las tres opciones debido a que todas están conectadas a diferentes servidores en diferentes partes del mundo, y cuanto mayor distancia haya con el servidor mayor será el tiempo de respuesta del mismo.
+
