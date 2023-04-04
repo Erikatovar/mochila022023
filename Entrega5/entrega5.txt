@@ -1,0 +1,18 @@
+¿Las ip públicas son las mismas? ¿por qué?
+No son las mismas, ya que la del browser sin vpn muestra mi ip real y los otros navegadores que utilizan vpns, muestra una direccion distinta
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No puedo, el video esta blockeado por la region en la que me encuentro
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si se puede, ya que estamos conectados a la red
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si, en las 3 formas probadas, la velocidad es diferente, esto sucede por la cantidad de servidores o la distancia que tienen entre enviar la informacion
+
+¿Que significa el valor del ping?
+el Ping envía paquetes de datos de un ordenador a otro y espera una respuesta
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+POrque entre las 3 pruebas, la distancia y la cantidad de servidores que teninan que atravezar, eran distintas
