@@ -1,0 +1,19 @@
+ip normal: 190.17.182.212 buenos aires
+ip opera: 77.111.246.4 	Estados Unidos
+ip tor: 185.220.101.84  	Ciudad de Brandeburgo
+
+las ips son diferentes porque tanto opera como tor usan vpn o el onion browser que cambia nuestra ubicacion para ocultar nuestra ip
+
+con mi buscador normal no lo pude ver y con la tor pude porque seguramente esta bloqueado el video en mi region
+
+si, pude esta arriba.
+
+opera vpn: 9.01s 8.24b 202p
+opera: 300s 15.27b 200p
+tor: 6.28s  8.12b 410p
+
+las velocidades son diferentes porque al usar vpn o tor estamos poniendole pasos a la conexion, cada vez encriptandola mas haciendola mas lenta y eso hace que baje nuestra velocidad 
+
+El ping se utiliza para medir la latencia o el tiempo de respuesta de una conexión de red. Envía un paquete de datos desde el dispositivo de origen al dispositivo de destino y registra el tiempo que tarda en completarse el viaje de ida y vuelta
+
+varia el ping porque el ping es el timepo de respuesta desde que hacemos el pedido hasta que llega al servidor
