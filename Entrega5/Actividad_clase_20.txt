@@ -1,0 +1,13 @@
+Mi ip publica: 167.63.182.41 - Montevideo Uruguay
+ip Opera: 77.111.246.4 - Estados unidos 
+ip Tor: 199.249.230.107 - Estados unidos
+
+1- Las ip publicas no son las mismas porque opera y tor me asignan la de otro pais gracias al vpn
+2- Sin utilizar VPN no puedo ver el video, al activar la vpn en estados unidos tampoco pude ver el video, pero cuando cambié mi localizacion virtual a europa, si pude verlo, porque el video estaba bloqueado para mi pais 
+3-Mi ip original, no, pero me muestra la del vpn
+4-Velocidad sin vpn: Bajada - 413mb, Subida - 32mb, Ping - 7ms
+5-Velocidad de bajada en opera con vpn: 8.94mb, subida - 7.34ms, ping 177ms
+6-Velocidad de bajada en tor con vpn: 2.69mb, subida - 2.65mb, ping 367ms
+7-las velocidades son diferentes porque sin vpn uso el servidor de mi proveedor de servicios, pero desde los navegadores uso los servidores vpn que estan mucho mas lejos y tienen menos velocidad de bajada
+8-El valor de ping significa el tiempo de respuesta que hay entre mi router y el servidor de destino
+9-El valor de ping depende de la distancia que haya entre mi ubicacion y la ubicacion del servidor vpn, mientras mas lejos, mas ping hay
