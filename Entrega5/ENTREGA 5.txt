@@ -1,0 +1,40 @@
+186.152.185.250 IP PUBLICA
+
+País	Argentina
+Ciudad	Boulogne
+Latitud	-34.4932
+Longitud	-58.5805
+ISP	Personal
+
+ip tor 185.220.101.182
+
+País 	Alemania
+Ciudad 	Ciudad de Brandeburgo
+Latitud 	52.6171
+Longitud 	13.1207
+ISP 	CIA TRIAD SECURITY LLC
+
+opera con vpn :Ping ms  212  descarga:2  subida:0,7
+opera sin vpn descarga:227 subida:22
+tor: descarga 14,5 subida subida 0
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+no son las mismas, ya que se basa porqe en opera activamos la vpn y en tor por el sistema de seguridad
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+no se puede ver cuando estas con vpn ya que el video esta permitido en el pais que autorizaron los del video y sin vpn se puede ver
+
+
+
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+si se pudo
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+si ya que se estan usando ip que no son ajenas ami que me las proporcionan para usar
+¿Qué significa el valor del ping?
+El Ping (Packet Internet Groper) es un método para determinar la latencia de comunicación entre dos redes. En pocas palabras, es un método para determinar la cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red
+
+
+y el ping varia depende de tu latencia
