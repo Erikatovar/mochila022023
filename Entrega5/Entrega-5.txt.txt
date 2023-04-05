@@ -1,0 +1,24 @@
+1.-  Cuando se utiliza Tor o una VPN, las direcciones IP públicas que se muestran en el destino final son diferentes a la dirección IP original del dispositivo, ya que el tráfico de Internet se enruta a través de nodos de Tor o servidores de la VPN, lo que oculta la dirección IP original para mejorar el anonimato y la privacidad en línea.
+
+2.- Sin la VPN no, con VPN en USA tampoco, tuve que cambiar a una que me ubicara en europa para poder verlo. si intentas ver un video en línea sin utilizar una VPN y luego activas una VPN para ver el mismo video, es posible que ocurran algunas de las siguientes situaciones: -acceso bloqueado 
+																	 -cambio de ubicación geográfica
+																	 -cambio en la velocidad de conexión
+3.- No, el enrutamiento del tráfico a través de la red Tor está diseñado para ocultar la dirección IP original del dispositivo que utiliza Tor, lo que hace que sea difícil o imposible geolocalizar la IP real del dispositivo. Esto se debe a cómo funciona la red Tor y su arquitectura de anonimato.
+
+Sin vpn:	DESCARGA Mbps
+		310.01
+	 	SUBIDA Mbps
+		288.54
+Con vpn: 	DESCARGA Mbps
+		11.26
+ 		SUBIDA Mbps
+		10.41
+Tor:  	Descarga Mbps
+		2.70
+		Subida Mbps
+		2.61
+4.- No fueron las mismas, creo que se debe mayoritariamente a que el speedtest elige un servidor cercano a nuestra ubicacion y al estar con VPN o Tor, la ruta de conexión puede cambiar, lo que podría afectar la velocidad de conexión. Por ejemplo, si el servidor seleccionado por Speedtest para la prueba sin VPN está ubicado cerca de tu ubicación física, pero el servidor seleccionado para la prueba con VPN o Tor está en otro país o continente, es posible que la velocidad se vea afectada debido a la distancia y el enrutamiento de la conexión.
+
+5.- El valor del ping es una medida que indica la latencia o retraso en la conexión de internet. Se refiere al tiempo que toma en milisegundos (ms) el envío de un paquete de datos desde un dispositivo (como una computadora o un teléfono) a un servidor y su retorno.
+
+6.- Si, el valor del ping puede variar en diferentes escenarios de conexión debido a la ubicación del servidor, la encriptación de datos, el ancho de banda de la VPN o Tor y posibles restricciones de red.
