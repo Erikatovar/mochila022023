@@ -1,0 +1,19 @@
+ENTREGA 5 
+
+1. las Ips son las mismas? Porque?
+R. Las IP públicas no son las mismas, varían porque TOR utiliza un sistema descentralizado, y la VPN también te asigna otra IP.
+
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+R. Sin la VPN no puedo ver el video por que youtube renstrigio el video en mi pais. Conecte la VPN en europa y funciono, pero si contecto la VPN en USA, no funciona el video tampoco.
+ 
+3.Utilizando Tor ¿pudimos localizar la IP?  
+R. No se puede localizar la ip en tor.
+
+4. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+R. Todos los tres tests fueron diferentes, el test local es mas alto por que estoy usando mi red directamente de mi ISP, el del VPN es un poco mas lento por que los datos viajan a travez del servidor del VPN para la conexion final, tambien si hay mucho trafico en el servidor esto hace que todo sea mas lento y tambien la ubicacion del servidor del VPN puede afectar la velocidad. Usando tor es aun mas lento por que la informacion tiene varias capas de incriptacion y tiene que viajar por al menos 3 servidores. 
+
+5. ¿Que significa el valor del ping?
+R. Es la medida que se indica en milisengundos y es la medida que se tarda un paquete de datos en viajar desde nuestros dipositivos al servidor y del servidor a nuestros dispositivos. 
+
+6. El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+R. Si varia por que tiene que ver con la velocidad que tarda un paquete de datos en ser enviada al servidor, si el servidor tiene mucho trafico o si el paquete de datos tiene que viajar por varios servidores, el tiempo de respuesta va a hacer mayor y por consiguiente el numero va a hacer mas alto. 
