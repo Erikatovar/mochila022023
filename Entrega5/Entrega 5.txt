@@ -1,0 +1,26 @@
+Tareas a realizar:
+
+1- Ip publica: 179.24.33.85
+
+2- 77.111.246.48 geolocalizacion: EEUU Washington
+
+3- 185.220.101.41 Germnay Branderburg
+
+4- Las ip publicas no son las mismas, las Ip publicas nunca se repiten, porque son los identificadores de cada red. Si hubiera 2 ips iguales generaria un conflicto de ip.
+
+5- No puedo acceder al video, porque tiene restricciones de pais. Solo en servidores de europa se desbloqueo el contenido, porque el servidor entendio que nuestra ip tenia la geolocalizacion correcta gracias a la vpn.
+
+6- En tor, solo nos muestra la ip del vpn, pero no asi la ip publica que nos asigna nuestro ISP.
+
+7- Velocidad de bajada 500Mbps subida 42.1 Mbps sin VPN
+
+8- 280 ms 5.8Mbps de bajada y 6.0 Mbps de subida. Opera con VPN
+
+9- 167ms 5.3Mbps de bajada y 17 Mbps de subida con Tor.
+
+10- Las velocidades son diferentes, hace prueba de velocidad con servidores especificos de prueba de velocidad, entonces cuando mas lejos del servidor te encuentres, mas latencia vas a tener, y mas perdida de velocidad tanto de subida como de bajada. 
+Al utilizar una VPN y ademas hacer el speed test a un servidore especifico, mas aun va a variar esa velocidad y latencia.
+
+11- El valor del ping es el tiempo que tarda en enviarse un paquete de datos desde un dispositivo a otro en una red y en recibir una respuesta. El valor se mide en milisegundos  
+
+12- El valor varia, porque los diferentes dispositivos se encuentran a distintas distancias.
