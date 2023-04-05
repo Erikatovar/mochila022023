@@ -1,0 +1,22 @@
+
+
+PREGUNTAS A REALIZAR EN MESAS
+
+¿Las ip públicas son las mismas? ¿por qué?
+- No son las mismas ya que al ponerle una VPN cambia el lugar de origen de la IP, es decir, con la VPN puedo tener cualquier IP simulando que estoy en alguna parte del mundo, mientras que sin VPN, mi IP sera de la region en donde me encuentro.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+- Sin utilizar la VPN  no pude ver el video, pero al acvtivarla si. lo que sucedio fue que el video esta restringido en nuestro lugar de origen y al poner una VPN de otro lugar de origen, nos deja ya que simulamos estar en otro pais. 
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+-si, nuestra IP es de Austria.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+-Si, sin VPN es mas rapido, con VPN se pierde bastante velocidad. Y en Tor se acentúa todavía mas la perdida de velocidad.
+
+¿Que significa el valor del ping?
+-El valor del ping representa los milisegundos que tarda en enviar un paquete y recibir la respuesta.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+-Si, con la VPN activada aumenta el ping,  y con tor aumenta aún mas el ping.
+
