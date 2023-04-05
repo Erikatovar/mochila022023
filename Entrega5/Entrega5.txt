@@ -1,0 +1,83 @@
+
+
+Entrega 5
+
+1_ En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+
+Mi ip publica es: 186.55.249.120
+
+2_ En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar. 
+
+Con VPN activada la ip es: 77.111.246.8, La ubicacion es en Estados Unidos.
+
+3_ Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.
+
+Con la red de TOR activada, la ip es: 212.227.229.1, la ubicación es en Alemania.
+
+4_ ¿Las ip públicas son las mismas? ¿por qué?
+
+Las ip públicas no son las mismas. Esto se da porque la VPN o la red TOR cambian la direccion IP al estar activadas.
+
+5_ Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+Sin activar la VPN no se puede ver el video, se muestra un mensje de que no esta disponible. Cuando activamos la VPN con ubucacion Europa nos permite ver el video. Esto es asi  ya que el video muestra como origen Alemania.
+
+6_ Utilizando Tor ¿pudimos localizar la IP ? 
+
+En realidad no, ya que TOR camufla la direccion IP y no nos muestra la nuestra real.
+
+7_ En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+Velocidad de Subida: 20.15
+Velocidad de Bajada: 11.23
+Ping: 8
+
+8_ En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+Velocidad de Subida: 10.89 
+Velocidad de Bajada: 15.71
+Ping: 280
+
+9_ Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+Velocidad de Subida: 1.91
+Velocidad de Bajada: 0.71
+Ping: 562
+
+10_ ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Si, las velocidades en los test son diferentes. Creo que esto se debe a que las ip publicas apuntan a diferentes regiones.
+
+11_ ¿Que significa el valor del ping?
+
+Ping es un indicador que se refiere a la señal enviada a través de la red a otro ordenador, que luego envía su propia señal de vuelta. E
+sta señal, que se mide en milisegundos (ms), nos permite saber cuánto tarda un paquete de datos en viajar desde un ordenador a un servidor en Internet y volver.
+
+12_ El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Si, el valor del ping varia en las diferentes opciones. Esto se debe a que la comunicacion entre las distintas opciones apuntan a diferentes paises o regiones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
