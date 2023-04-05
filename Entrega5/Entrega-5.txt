@@ -1,6 +1,6 @@
 VPN en buscador sin vpn (chorme) :190.132.100.184
 
-VPN en Opera con vpn :77.111.246.31
+VPN en Opera con vpn  :77.111.246.31
 
 VPN en Tor : 104.149.141.229. Localizacion: EEUU.
 
