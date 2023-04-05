@@ -1,0 +1,40 @@
+VPN en buscador sin vpn (chorme) :190.132.100.184
+
+VPN en Opera con vpn :77.111.246.31
+
+VPN en Tor : 104.149.141.229. Localizacion: EEUU.
+
+Test de velocidad sin vpn(chrome):
+
+Bajada:54 mbps
+
+Subida:33mbps
+
+ping: 30ms
+
+Test con VPN(opera):
+
+Bajada: 5mbps
+
+Subida: 5mbps
+
+Ping: 215 ms
+Test tor: 
+
+Bajada:3.25 mbps
+
+subida: 0mbps
+
+ping: 775ms
+
+Las ip publicas no son las mismas, ya que son todas diferentes al tener valores diferentes.
+
+en primera instancia no podiamos ver el video y luego de acitivar la vpn si
+
+gracias a tor es posible localizar nuestra ip
+
+
+
+
+
+
