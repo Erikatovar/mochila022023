@@ -1,0 +1,34 @@
+Entregable Tarea 5
+
+IP sin VPN/geolocalizacion:179.29.7.17/Uruguay
+IP VPN Opera/geolocalizacion:77.111.245.13/Suiza
+IP VPN Tor/geolocalizacion:146.59.233.33/Francia
+subida/bajada/ping Opera VPN: 12.50/5.28/408
+subida/bajada/ping Tor VPN: 5.75/3.00/630
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, las Ips publicas son siempre unicas
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No se puede ver el video sin activar la VPN, luego de activada la VPN si, esto se debe a que el video esta disponible para cierta region, entonces no funciona si la VPN no esta activada, ya que la VPN te permite disfrazar tu verdadera IP
+ y se utiliza una de las IPS de el proveedor de VPN, con una IP de Asia se puede visualizar el video.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Nuestra IP real no, pero la que otorga Tor si.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Yo creo que se debe a la cantidad de saltos que debe hacer.
+
+
+¿Que significa el valor del ping?
+Es un método para determinar la cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+como ya dijimos el ping es el tiempo que tardan los paquetes en viajar entre dispositivos o a traves de una red, mientras mas saltos deba dar y tomar desviaciones, mas alto sera el ping, por ende mas lento ira el navegador.
+Tor al hacer saltos por por lo menos por 3 servidores, es notoriamente mas lento.
+
+
+
+
+
+
