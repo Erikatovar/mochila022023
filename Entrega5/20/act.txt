@@ -1,0 +1,44 @@
+Mi ip en opera : 77.111.246.8 (país Estados Unidos )
+Mi ip en Tor : 198.98.51.189 ( Pais Estados Unidos)
+
+No, en ambos navegadores las ip públicas cambian ya que utilizo vpn
+
+Desde Chrome, que es mi browser sin vpn, no pude ver el video. Utilice el van de Opera y la geolocalización en espora y me permitió verlo.
+
+Si, utilizando Tor pude geolocalizarme en EEUU. 
+
+
+Speed)
+
+Opera sin VPN: 
+ID de resultado 14571566399
+ DESCARGA Mbps
+112.06
+ SUBIDA Mbps
+26.71
+Ping ms  16  41  42
+
+
+Opera con VPN:
+ DESCARGA Mbps
+53.14
+ SUBIDA Mbps
+6.43
+Ping ms  472  522  501
+
+Tor:
+ Descarga Mbps
+3.72 
+ Subida Mbps
+2.50 
+ Ping ms 637 892 3608
+
+Las velocidades son diferentes.
+En la red local va más rápido porque tengo la velocidad de descarga que dice mi proveedor de internet.
+En opera con vpn tiene menor valor ya tiene que atravesar muchas capas hasta llegar a su servidor final 
+
+
+El Ping (Packet Internet Groper) es un método para determinar la latencia de comunicación entre dos redes.
+En pocas palabras, es un método para determinar la cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red. 
+
+El valor de ping varia entre las opciones ya que el tiempo que tardan los datos en viajar entre dispositivos es mayor cuando la conexión no es directa
