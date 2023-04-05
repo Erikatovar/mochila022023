@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="20" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Mar 29 15:02:02 2023
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">usuario-intro</m>
+<m key="dc.date">Wed Mar 29 14:22:26 2023
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="3" edit-time="666" last-saved="1680112922" uid="2c04dffe-ce56-11ed-921e-baf2a8f32cfc">
+<version id="2" started="1680110546" uid="b0819e7e-ce57-11ed-921e-baf2a8f32cfc" auto="0" top-xid="2"/>
+<version id="3" started="1680112922" uid="cedb82b4-ce5b-11ed-9403-809345872fc5" auto="0" top-xid="20"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="2">Por  que lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?<c></c></p>
+<p style="Normal" xid="3"><c></c><c></c></p>
+<p style="Normal" xid="4">porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo.<c></c></p>
+<p style="Normal" xid="7"><c></c><c></c></p>
+<p style="Normal" xid="8"><c></c><c></c></p>
+<p style="Normal" xid="5">que tipo de maquina virtual soporta VB?<c></c></p>
+<p style="Normal" xid="9"><c></c><c></c></p>
+<p style="Normal" xid="10">windows 3.x 95 98, me nt 4.0, 2000 xp server 2003, vista<c></c></p>
+<p style="Normal" xid="11">Linux 2.2 2.4 y 2.6 OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4<c></c></p>
+<p style="Normal" xid="12"><c></c><c></c></p>
+<p style="Normal" xid="13"><c></c><c></c></p>
+<p style="Normal" xid="6">que funcion cumple el hypervisor de virtual box ?</p>
+<p style="Normal" xid="14"><c></c><c></c></p>
+<p style="Normal" xid="15">un hypervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas medainte el uso compartido virtual de sus recursos, como la memoria y el procesamiento.<c></c></p>
+<p style="Normal" xid="16"><c></c><c></c></p>
+<p style="Normal" xid="17">si tengo mas de una maquina virtual instalada y una se rompe, esto afecta a las demas?  por que?<c></c></p>
+<p style="Normal" xid="18"><c></c><c></c></p>
+<p style="Normal" xid="19">las maquinas virtuales de proceso se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicacion de forma separada. De ese modo, si una de ellas falla no afectara el funcionamiento del resto.<c></c></p>
+</section>
+</abiword>
