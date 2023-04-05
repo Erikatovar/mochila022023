@@ -1,0 +1,87 @@
+
+IP publica:
+
+Tu dirección IP es 186.113.140.64 
+		Pais: colombia
+		ciudad :medellin
+		
+		
+Opera VPN activada 
+	
+	IP: 186.113.140.64
+	pais: colombia
+	ciudad: Medellin
+
+tor red activada 
+	
+	IP:186.113.140.64	
+	Pais:colombia
+	
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.	
+
+	bajada: 4.79 Mbps
+	subida: 0.83 Mbps
+	ping: 171
+	
+	
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+	
+	bajada: 88.42 Mbps
+	subida:	93.64 Mbps
+	ping: 15 
+
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+
+	bajada: 4.87
+	subida: 0.77
+	ping: 178
+
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+La velocidad puede ser diferente en diferentes navegadores debido a varios factores. Aquí hay algunas razones posibles:
+
+Caché del navegador: los navegadores web almacenan una copia de las páginas web visitadas anteriormente en la caché del navegador. Si una página web se visita con frecuencia, es posible que el navegador la cargue más rápidamente ya que ya tiene una copia almacenada en caché. Si se usa un navegador por primera vez, puede que tenga que descargar todos los datos de la página web, lo que puede llevar más tiempo.
+
+Configuración de proxy: algunos navegadores, como Tor, utilizan una red de proxy para ocultar la dirección IP del usuario y hacer que su navegación sea más segura y privada. El uso de un proxy puede reducir la velocidad de Internet debido al tiempo adicional que lleva enrutar el tráfico a través de un servidor proxy.
+
+Características de seguridad: los diferentes navegadores web tienen diferentes niveles de seguridad y privacidad. Algunos navegadores, como Tor, están diseñados para ocultar la dirección IP del usuario y proteger su privacidad. Estas características pueden ralentizar la velocidad de Internet, ya que el tráfico se enruta a través de servidores adicionales para aumentar la privacidad.
+
+Capacidad de procesamiento: los diferentes navegadores web pueden tener diferentes niveles de eficiencia en el procesamiento de código y scripts de página web. Algunos navegadores pueden procesar código más rápido que otros, lo que puede afectar la velocidad de carga de una página web.
+
+En resumen, hay varios factores que pueden afectar la velocidad de Internet en diferentes navegadores, incluida la caché del navegador, la configuración de proxy, las características de seguridad y la capacidad de procesamiento del navegador.
+
+
+¿Que significa el valor del ping?
+
+El valor de ping en los test de red es una medida de la velocidad de respuesta de un servidor. Ping (Packet Internet Groper) es una herramienta que se utiliza para enviar un pequeño paquete de datos a un servidor y medir el tiempo que tarda en responder. El resultado es un valor en milisegundos que indica cuánto tiempo tarda en viajar el paquete de datos desde el equipo del usuario hasta el servidor y luego volver de nuevo.
+
+El valor de ping se utiliza comúnmente para evaluar la calidad de la conexión a Internet, especialmente en aplicaciones en línea que requieren una comunicación en tiempo real, como juegos en línea o videollamadas. Un valor de ping bajo (menos de 100 ms) indica una conexión de red rápida y confiable, mientras que un valor de ping alto (más de 100 ms) puede indicar una conexión de red más lenta y menos confiable.
+
+Es importante tener en cuenta que el valor de ping puede variar según la ubicación del servidor, la velocidad de la conexión a Internet y otros factores. Por lo tanto, es recomendable realizar varias pruebas de ping en diferentes momentos del día para obtener una evaluación más precisa de la calidad de la conexión a Internet.
+
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+
+El valor de ping debería ser el mismo en cualquier navegador que se utilice ya que mide la velocidad de respuesta de un servidor y no está directamente relacionado con el navegador en sí. Sin embargo, puede haber algunas diferencias en los valores de ping al utilizar diferentes navegadores debido a algunos factores:
+
+Procesamiento de la página: diferentes navegadores web pueden procesar una página web de manera diferente. Si una página web está diseñada específicamente para funcionar mejor en un navegador en particular, puede que se cargue más rápido en ese navegador. Esto puede influir en la medición del ping, ya que la página puede tardar más en cargarse en un navegador diferente.
+
+Extensión del navegador: algunas extensiones o complementos instalados en un navegador pueden afectar la velocidad de carga de las páginas web, lo que puede afectar el valor de ping. Las extensiones que bloquean anuncios, scripts o contenido multimedia pueden hacer que las páginas web carguen más rápido, lo que puede resultar en un valor de ping más bajo.
+
+Configuración de proxy: algunos navegadores, como Tor, utilizan una red de proxy para ocultar la dirección IP del usuario y hacer que su navegación sea más segura y privada. El uso de un proxy puede reducir la velocidad de Internet debido al tiempo adicional que lleva enrutar el tráfico a través de un servidor proxy, lo que puede influir en el valor de ping.
+
+En resumen, aunque el valor de ping debería ser el mismo en cualquier navegador que se utilice, pueden haber algunas diferencias debido a la forma en que los navegadores procesan las páginas web y las extensiones que se utilizan. Si se observan grandes diferencias en los valores de ping, puede que haya otros factores que estén afectando la velocidad de Internet, como la configuración de la red o la ubicación del servidor.
+
+
+
+
+
+
+
+
+
