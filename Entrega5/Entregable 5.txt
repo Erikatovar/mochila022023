@@ -1,0 +1,42 @@
+Google Chrome
+
+ip: 181.10.193.162
+Proveedor de Internet: Personal
+Pais: Argentina	
+Proxy: no
+
+Opera
+
+ip: 77.111.246.31
+Proveedor de Internet: Opera Mini Proxy
+Pais: Estados Unidos
+Proxy: no
+
+Tor
+
+ip: 192.42.116.173
+Proveedor de Internet: SURF B.V.
+Pais: ????
+Proxy: no
+
+1) No son las mismas porque en opera estamos usando vpn para cambiar la direccion ip, y Tor hace tu ip anonima.
+2) El video estaba restingido para mi pais, con el vpn activo en opera pude ver el video ya que youtube pensaba que estaba en Europa.
+3) Si pude localizar la ip con Tor, no era la misma que la mia publica original, tampoco me aparecia mi ubicacion geografica.
+4) sin VPN 
+Descarga : 3.11Mbs
+Subida : 4Mbs
+Ping : 293ms
+
+con VPN
+Descarga : 1.88mbs
+Subida : 3.59mbs
+Ping: 600ms
+
+con TOR
+Descarga : 0.29mbs
+Subida : 1.68mbs
+Ping: 1387ms
+
+5) la velocidad de los test son diferentes, usando vpn o tor las rutas que toman los paquetes son mas complejas y ademas tienen procedimientos de encriptacion extra que hace que tarde mas en viajar la informacion.
+6) ping es la cantidad de tiempo en la que tarda en enviarse una peticion y que vuelva su respuesta, se mide en milisegundos, son valores distintos porque como ya dijimos tarda mas en viajar los paquetes con estos procedimientos mas complejos.
+7)
