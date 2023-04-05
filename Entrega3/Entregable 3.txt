@@ -1,0 +1,14 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+
+1.	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Un lenguaje de programación puede utilizarse en algunos sistemas operativos y en otros no debido a varias razones como la arquitectura del procesador, las bibliotecas y frameworks disponibles, la API del sistema operativo y las limitaciones impuestas por el sistema operativo en sí.
+
+2.	¿Qué tipo de máquina virtual soporta virtualBox?. 
+VirtualBox es una herramienta de virtualización que admite la creación y ejecución de múltiples tipos de máquinas virtuales en una variedad de sistemas operativos, incluyendo Windows, Linux y macOS.
+
+3.	¿Qué función cumple el hypervisor en la virtualización?
+El hypervisor es el software encargado de la creación y gestión de máquinas virtuales en un entorno de virtualización. Su función principal es permitir la ejecución de múltiples sistemas operativos y aplicaciones en un solo servidor físico, compartiendo los recursos de hardware de forma eficiente y aislada.
+4.	Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+En general, si una máquina virtual se rompe o falla, esto no debería afectar a las otras máquinas virtuales que se estén ejecutando en el mismo servidor físico. Las máquinas virtuales están diseñadas para funcionar de forma aislada, y el hypervisor se encarga de proporcionar un entorno seguro y aislado para cada una de ellas.
+Sin embargo, dependiendo de la causa del fallo de la máquina virtual, puede haber efectos indirectos en otras máquinas virtuales que se estén ejecutando en el mismo servidor. Por ejemplo, si la máquina virtual que falla tiene un consumo elevado de recursos, como la CPU o la memoria RAM, esto puede afectar el rendimiento de las otras máquinas virtuales en el mismo servidor.
