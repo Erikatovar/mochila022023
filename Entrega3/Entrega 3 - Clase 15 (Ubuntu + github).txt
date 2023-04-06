@@ -1,0 +1,8 @@
+1 - La gran mayoria de lenguajes de programacion, basta con utilizar un editor de texto para programar. Estos serian los lenguajes de programacion general. 
+En los lenguajes de programacion especificos alli dependera del entorno donde se tenga que desarrollar.
+
+2 - Soporta maquina virtual de sistema, porque permite instalar sistemas operativos en su interior.
+
+3 - Es un proceso que crea y ejecuta maquinas virtuales, es como un administrador de maquinas virtuales, asigna parte de la memoria, disco fisico, etc. y puede correr tanto sobre el hardware tipo 1 o sobre software tipo 2. En este caso VirtualBox es Hipervisor tipo 2.
+
+4 - No, cada maquina virtual es independiente una de otra, son sistemas virtuales totalmente separados.
