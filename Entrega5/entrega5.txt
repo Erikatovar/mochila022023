@@ -1,0 +1,35 @@
+(Creado en un .txt porque no cuento con word) 
+
+Mi IP pública obtenida en https://www.cual-es-mi-ip.net desde el navegador Opera: 45.170.10.241.
+
+IP pública obtenida en  Opera con el VPN activado: 45.170.10.241. Geolocalizada en Estados Unidos.
+
+IP pública obtenida en navegador Tor: 192.42.116.184. 
+Intentando geolocalizarla con la página web antes mencionada arroja un error de que no es localizable en ese browser,
+pero intentando con otra página web de geolocalización de IP me ubicó en Amsterdam. 
+
+La IP públicas no son las mismas, lógicamente van variando al utilizar distintos VPNs los cuales tienen este objetivo,
+ubicarnos en la red como si estuviéramos en otro lugar, ya sea por seguridad o comuflaje, o para acceder a contenidos que estén disponibles en un lugar y en otro no, por ejemplo.
+Así mismo, no me fue posible visualizar el video en ninguno de mis navegadores, con y sin VPN.
+
+VELOCIDAD
+
+Opera con VPN activado: Ping: 269  Bajada: 207 Subida: 244
+
+Opera sin VPN activado: Ping: 197  Bajada: 202  Subida: 285
+
+Tor: Ping: 548 Bajada: 1296 Subida: 5358
+
+Valor de ping: Método para determinar la latencia de comunicación entre redes;
+cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red.
+
+Este valor de ping varía según el VPN que utilicemos por varias razones,
+puede ser por la distancia física entre el servidor del VPN y nuestro dispositivo.
+También por el ancho de banda, es decir, la cantidad de usuarios conectados al servidor del VPN que estemos utilizando.
+Otra razón es el proceso mismo de seguridad y cifrado por el que usualmente utilizamos estos VPN, pueden tomar más tiempo y
+por eso afectar el ping.
+
+Las velocidades en los test varían en los distintos navegadores y VPNs por las mismas razones descriptas
+en el punto anterior sobre el ping y también podemos agregar que al utilizar estos VPN, el tráfico de internet se enruta a través del servidor de estos,
+usualmente hay mayor número de saltos de red por lo que la velocidad se ve afectada y tardan mucho más como podemos ver en el navegador Tor y comprobarlo 
+al navegar en él: tarda mucho más en navegar que los otros navegadores, sobretodo al no utilizar una VPN.
