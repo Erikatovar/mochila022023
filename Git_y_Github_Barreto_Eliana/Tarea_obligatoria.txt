@@ -1,0 +1,17 @@
+Preguntas:
+
+a. Quién inventó el sistema de control de versión Git y por qué?
+b. A quién pertence actualmente Github y por qué?
+c. Hay otra forma que no sea la terminal para trabajar con Github?
+
+Respuestas:
+
+a. El sistema de control de versiones Git, fue inventado por Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+El como surgió Git, fue de la siguiente manera, a partir de 2002 cuando un proyecto de Linux, Linux kernel, empezó a utilizar la herramienta Bitkeeper. Este era un DVCS que utilizaban para poder trabajar en la mantención del proyecto. Sin embargo, en 2005 hubo un giro inesperado. El equipo de Bitkeeper y Linux tuvo algunos problemas. Bitkeeper decidió empezar a cobrarle por los servicios y Linux en respuesta lo eliminó por convivencia. 
+
+Por lo que a Torvalds después de un tiempo le surge la idea de crear su propio sistema de manejo de versiones, conocido hoy en día como Git. Esta herramienta la hizo con el fin de crear una versión mejorada de lo que existía y solucionar algunos problemas de los que habían tenido utilizando la herramienta de Bitkeeper. Querían que esta tecnología fuera más rápida, simple, que permitiera paralelizar el desarrollo, que fuera completamente distribuida y que permitiera manejar proyectos muy grandes sin comprometer la velocidad.
+
+b. El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+c. Si, existen otras formas de trabajar con Github, que no sea con la terminal, por ejemplo con GitHub Desktop, la cual es una herramienta gráfica de control de versiones.
