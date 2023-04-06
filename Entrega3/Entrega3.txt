@@ -1,0 +1,5 @@
+1. En cuanto a la mayoria de lenguajes de programación es posible usarlos con solo un editor de texto, aún así la interpretación de los lenguajes va a depender de la arquitectura del procesador y su sistema operativo.
+2. Soporta máquinas virtuales de sistemas.
+3. Se le conoce como monitor de maquinas virtuales; proceso donde se crea y ejecuta  maquinas virtuales.
+4. Si una de la maquinas virtuales se rompe, no afectará a las demás, ya que la ejecución de cada instancia en cada máquina virtual es separada.
+
