@@ -1,8 +1,36 @@
-Por qu[e un lenguaje de programacion solo se puede utilizarse en algunis sistemas operativos?
-Que tipo de Maquina virtual soporta virtualBox?
+1---Por qu[e un lenguaje de programacion solo se puede utilizarse en algunis sistemas operativos?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
 
-Que funcion cumple el hypervisor en la virtualizacion?
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo en Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre sistemas operativos.
 
-Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+
+2---Que tipo de Maquina virtual soporta virtualBox?
+Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros.
+
+
+
+3---Que funcion cumple el hypervisor en la virtualizacion?
+ permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+Hipervisor (hypervisor)
+Un hipervisor (hypervisor), conocido también como supervisor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+Cuando el sistema de hardware físico se usa como hipervisor, se denomina "host", y las múltiples máquinas virtuales que utilizan sus recursos se denominan "guests".
+
+El hipervisor utiliza los recursos, como la CPU, la memoria y el almacenamiento, como un conjunto de medios que pueden redistribuirse fácilmente entre los guests actuales o en las máquinas virtuales nuevas.
+
+Todos los hipervisores necesitan algunos elementos del sistema operativo (por ejemplo, el administrador de memoria, el programador de procesos, la stack de entrada o salida [E/S], los controladores de dispositivos, el administrador de seguridad y la stack de red, entre otros) para ejecutar las máquinas virtuales.
+
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos. El hardware físico sigue efectuando las operaciones, por lo que la CPU aún ejecuta las instrucciones de la CPU según lo solicitado por las máquinas virtuales; por ejemplo, mientras el hipervisor gestiona la programación.
+
+Con un hipervisor, muchos sistemas operativos diferentes que pueden funcionar a la par y compartir los mismos recursos de hardware virtualizados. Esta es una de las principales ventajas de la virtualización, ya que, sin ella, solo se puede ejecutar un sistema operativo en el hardware. 
+
+Hay muchas opciones de hipervisores open source y de proveedores tradicionales. VMware es una opción popular para la virtualización que ofrece el hipervisor ESXi y la plataforma de virtualización vSphere.
+
+La máquina virtual basada en el kernel (KVM) es una opción open source que está integrada en el kernel de Linux®. Otras opciones incluyen Xen, que cuenta con la tecnología de open source, y Microsoft Hyper-V. 
+
+
+4----Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+no,se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada
 
 
