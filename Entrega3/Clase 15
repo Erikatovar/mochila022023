@@ -1,0 +1,4 @@
+1-  Depende del lenguaje ensamblador de la arquitectura del procesador y la interpretacion del sistema operativo.
+2-  De proceso y de sistema
+3-  El hipervisor permite que una computadora pueda soportar multiples maquinas virtuales 
+4- No afecta porque cada maquina virtual es como si fuera una computadora individual
