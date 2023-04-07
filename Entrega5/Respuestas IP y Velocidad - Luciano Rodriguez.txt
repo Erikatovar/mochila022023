@@ -1,0 +1,26 @@
+1- ¿Las ip públicas son las mismas? ¿por qué?
+No, todas las IP fueron distintas, porque la vpn y tor me ocultaban.
+
+
+2- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+En ningun caso me dejo ver el video, me decia no disponible en mi pais, intente varias veces activando y desactivando.
+
+
+3- Utilizando Tor ¿pudimos localizar la IP ? 
+Con Tor al principio pude localizar en Ucrania mi IP pero porque tenia el nivel de seguridad estandar, 
+al aumentar al siguiente nivel de seguridad me aparecia el pais pero no me figuraba en el mapa, y al aumentar al nivel
+mas alto de seguridad ni siquiera me decia el pais solo la IP.
+
+
+____________________________________________________________________________
+
+1- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si fueron diferentes, porque en tor pasan por diferentes servidores y tienen que cifrarse y descifrarse.
+
+
+2- ¿Que significa el valor del ping?
+Determina la cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red.
+
+
+3- El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si vario, se debe que al tener que ocultarnos en la red o cambiar el pais de nuestra IP hace que los datos viajen mas lentos.
