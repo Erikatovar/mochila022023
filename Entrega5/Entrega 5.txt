@@ -1,0 +1,85 @@
+Entrega 5
+
+Prueba de IP
+
+IP sin VPN: 167.57.95.233 - Uruguay
+
+Opera:
+IP Publica: 77.111.246.8 - EEUU
+
+Tor:
+IP Publica: 185.220.101.55 - Alemania
+
+1 - ¿Las ip públicas son las mismas? ¿por qué?
+En caso de no tener conectado VPN las IP publicas son las mismas dado que la conexión es la misma.
+En el caso de tener activado el VPN las IP públicas cambian, dado que muestran la ip de los servidores donde se enlazan.
+
+2 - Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No se puede visualizar el video dado que está restringido para ciertas regiones y nuestro proveedor de red debe coincidir con las zonas habilitadas para la visualizaciòn del video.
+
+3-Utilizando Tor ¿pudimos localizar la IP ?  
+Si, localizó una IP de EEUU
+
+
+Prueba de Velocidades
+
+Velocidad sin VPN:
+descarga 150 Mbps - Subida 31.50 Mbps
+
+Opera:
+descarga 79,23 Mbps - Subida 9.00 Mbps
+
+Tor:
+descarga 8,23 Mbps - No
+
+4) Si, las velocidades en los test son diferentes, creo que es debido a que nos estamos conectando a otro ISP. 
+
+5) El valor del ping significa la latencia de conexión entre dos dispositivos en enviar y recibir una respuesta, esta se mide en ms y cuanto mayor sea significa que mayor será el tiempo de respuesta de un dispositivo a otro. 
+
+6) El valor del ping varía entre las tres opciones debido a que todas están conectadas a diferentes servidores en diferentes partes del mundo, y cuanto mayor distancia haya con el servidor mayor será el tiempo de respuesta del mismo.
+
+
+Entrega 5
+
+Prueba de IP
+
+IP sin VPN: 167.57.95.233 - Uruguay
+
+Opera:
+IP Publica: 77.111.246.8 - EEUU
+
+Tor:
+IP Publica: 185.220.101.55 - Alemania
+
+1 - ¿Las ip públicas son las mismas? ¿por qué?
+En caso de no tener conectado VPN las IP publicas son las mismas dado que la conexión es la misma.
+En el caso de tener activado el VPN las IP públicas cambian, dado que muestran la ip de los servidores donde se enlazan.
+
+2 - Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No se puede visualizar el video dado que está restringido para ciertas regiones y nuestro proveedor de red debe coincidir con las zonas habilitadas para la visualizaciòn del video.
+
+3-Utilizando Tor ¿pudimos localizar la IP ?  
+Si, localizó una IP de EEUU
+
+Prueba de velocidades
+
+Velocidad sin VPN:
+Descarga 150,67 Mbps - Subida 31.64 Mbps
+
+Opera:
+Descarga 79,23 Mbps - Subida 9.00 Mbps
+
+Tor:
+Descarga 8,23 Mbps - Subida Advertencia XSS de NoScript (advertencia de seguridad)
+
+
+
+1-¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si, las velocidades en los test son diferentes, creo que es debido a que nos estamos conectando a otro ISP. 
+
+2-¿Que significa el valor del ping?
+El valor del ping significa la latencia de conexión entre dos dispositivos (en enviar y rebir una respuesta), esta se mide en ms y cuanto mayor sea significa que mayor será el tiempo de respuesta de un dispositivo a otro. 
+
+6) El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+El valor del ping varía entre las tres opciones debido a que todas están conectadas a diferentes servidores en diferentes partes del mundo, y cuanto mayor distancia haya con el servidor mayor será el tiempo de respuesta del mismo.
+
