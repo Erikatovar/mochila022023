@@ -1,0 +1,27 @@
+Entregable 5 
+
+Dirección IP sin VPN en OPERA: 181.169.148.74
+
+Dirección IP con VPN en OPERA: 77.111.246.22
+
+Geolocalización IP con VPN en OPERA: 
+                                     País	Estados Unidos
+                                     Ciudad	
+                                     Latitud	37.751
+                                     Longitud	-97.822
+                                     ISP	Opera Mini Proxy
+
+Dirección IP en TOR: 185.220.101.9
+
+Geolocalización IP en TOR: País 	Alemania
+                           Ciudad 	Ciudad de Brandeburgo
+                           Latitud 	52.6171
+                           Longitud 	13.1207
+                           ISP 	CIA TRIAD SECURITY LLC 
+1- No, las IP públicas no son las mismas. Al utilizar VPN protege nuestra privacidad y se produce el cambio de la IP de origen, llegándole al servidor de destino una IP diferente a la que fue asignada por nuestro ISP.
+2- Sin VPN no se puede ver el video. Solamente me fue posible con una VPN proveniente de Europa. Ese video no está disponbile para las conexiones que se realicen desde América Latina, por el rango de IPs que tienen asignados los países. En la VPN europera está habilitado.
+3- Sí, utilizando Tor se puede localizar la iP.
+4- Sí, las velocidades del test son diferentes. Yo creo que sucede eso ya que en el navegador TOR la velocidad de bajada es un poco más baja. Hay varios factores que pueden afectar la velocidad de Internet en diferentes navegadores, como por ejemplo, el caché del navegador, la configuración de proxy, las características de seguridad, la capacidad de procesamiento del navegador, entre otras.
+ 5- El Ping es un método para determinar la cantidad de tiempo que tardan los paquetes de datos en viajar entre dos dispositivos o a través de una red.
+6- Sí, son diferentes ya que según el ping, utilizando VPN o TOR el ping aumenta considerablemente dado que los paquetes de datos tardan mucho más en llegar al destino.
+
