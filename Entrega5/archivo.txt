@@ -1,0 +1,19 @@
+1)201.190.187.160
+2)201.190.130.098 y geolocalizacion Australia
+3)5.45.106.197 y Pais Alemania.
+4)LAs ip publicas son siempre distintas.
+5)Al principio no te deja ver el video, te deja cunado at¡citvas el VPN en Europa.
+6)si
+
+7)sin VPN, descarga 90,37 subida 40,57 ping ms 12-79-400
+8)descarga 79,57  subida 26,57 ping ms 412-429-419
+9)tor: descarga 7,57  subida 12,57 ping ms 362-429-4543
+
+las velocidades son diferentes, primero la medicion de velocidad sa un numero alto, despues cuando activas el resto de los protocolos,el ping es mayor sobre la velocidad.
+
+el valor ping es una unidad de medida que sirve para medir la latencia.
+
+El valor de ping debería ser el mismo en cualquier navegador que se utilice ya que mide la velocidad de respuesta de un servidor
+pero puede haber algunas diferencias en los valores de ping diferentes navegaadores.
+
+
