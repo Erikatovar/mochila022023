@@ -1,0 +1,18 @@
+1) Las IP públicas son distintas, ya que al conectarnos a la VPN nos asigna una IP, y al utilizar TOR y su red distribuida, también cambia nuestra ubicación de IP.
+
+2) No puedo ver el video, ya que está bloqueado para mi país (por IP). Si cambio la región de la VPN, si me deja (a una región en la cual esté permitido ver ese video)
+
+3) No, sin embargo hay maneras de geolocalizar las direcciones que otorga TOR.
+
+4) En opera sin VPN tengo 500mb de bajada, 50 de subida y 1 de ping.
+
+5) En opera con VPN activada, tengo 300mb de bajada, 20 de subida y 3 de ping.
+
+6) Con TOR y su red, mi velocidad baja bastante, tengo 100mb de bajada, 5 de subida y 30 de ping.
+
+7) Las velocidad son diferentes debido a: Sin VPN, mi internet depende directamente de mi ISP y su conexión con internet. Con VPN activa, dependo de la velocidad y ubicación de la VPN, y con TOR, dependo de que tan saturada esté la red de TOR, ya que el enrutamiento es mucho más limitado que en la web normal, y esto hace que los tiempos de carga y el ping sea mayor.
+
+8) El ping sigifica cuanto tiempo tarda en llegar un paquete desde mi ubicación al receptor, y obtener una respuesta.
+
+9) Las variaciones dependen de la ubicación del nodo al que le estoy haciendo ping.
+
