@@ -1,0 +1,19 @@
+1)La ejecucion de un lenguaje en un sistema operativo depende de la existencia
+de un compilador o interprete especifico para ese lenguaje, si ese compilador
+o interprete no existen en el sistema operativo, el lenguaje no podra ser 
+ejecutado.
+
+2)VirtualBox soporta una variedad de maquinas virtaules, incluyendo
+sistemas operativos de 32 y 64 bits como Windows, Linux, macOS,
+Solaris y FreeBSD. 
+
+3)El hypervisor actua como una capa intermedia entre el hardware 
+fisico y los sitemas operativos de las maquinas virtuales.
+Permite que multiples sistemas operativos se ejecuten en una sola
+maquina fisica.
+
+4)Si una maquina virtual se rompe, no deberia afectar a las demas
+maquinas virtuales en la misma plataforma de virtualizacion.
+Las maquinas virtuales estan disenadas para que se aislen entre si
+y que no tengan acceso a los recursos de otras maquinas virtuales
+o a la del sistema anfitrion.
