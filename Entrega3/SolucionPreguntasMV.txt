@@ -1,0 +1,9 @@
+Cuestionario.
+- Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos?
+Rta. Porque no siempre se presenta compativilidades entre lenguajes y la imagen donde se ejecute, esto incluye las versiones sistema opetativo y las caracteristicas del hardware en las que se ejecuta.
+- Que tipo de maquina virtual soporta virtualbox?
+Rta. La maquina virtual que soporta virtualbox es de sistemas basadas en un ambiente de java.
+- Que funcion cumple el hypervisor en la virtualizacion?
+Rta. Permite la asignaci[on de recursos de hardware sobre la maquina fisica que se ejecuta, CPU, RAM y disco duro
+- Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+Rta. Si es eliminada no se afecta debido a que son maquinas virtuales independientes, su conformaci[on se basa sobre los recursos de la misma maquina fisica pero son independientes en su funcionamiento.
