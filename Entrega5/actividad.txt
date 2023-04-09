@@ -1,0 +1,12 @@
+1.¿Las ip públicas son las mismas? ¿por qué?
+si, viendo en los dos browsers nos mostraba las mismas ips
+2.Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+sin activarla no podia pq salia que el video estaba bloqueado en mi pais y al acerlo con la VPN tampoco me dejaba, la verdad no se si sea error mio, pero cuando lo hacia aun no me dejaba
+3.Utilizando Tor ¿pudimos localizar la IP ?  
+si, ahi me solto la ip como en el opera con el vpn activo
+4.¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+si, se vieron bastantes cambios y yo creo que esto sucede pq al activar la vpn la conexion se enruta a traves de un servidor remoto antes de llegar a su destino final
+5.¿Que significa el valor del ping?
+es una medida que muestra que muestra si la conexion es mas rapida o menos eficiente 
+6.El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+si, puede variar por varias razones drsde la ubiacion del servidor, por la congestion de red y la calidad de la conexion a internet tambien 
