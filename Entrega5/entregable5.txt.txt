@@ -1,0 +1,143 @@
+Google Chrome
+
+
+
+
+
+
+
+
+
+ip: 190.188.164.37
+
+
+Proveedor de Internet: Fibertel
+
+
+Pais: Argentina	
+
+
+Proxy: no
+
+
+
+
+
+
+
+Opera
+
+
+
+
+
+
+
+ip: 68.341.966.31
+
+
+Proveedor de Internet: Opera Mini Proxy
+
+
+Pais: Estados Unidos
+
+
+Proxy: no
+
+
+
+
+
+
+
+Tor
+
+
+
+
+
+
+
+ip: 182.33.128.154
+
+
+Proveedor de Internet: SURF B.V.
+
+
+Pais: xxx
+
+
+Proxy: no
+
+
+
+
+
+
+
+1) No son las mismas porque en opera estamos usando vpn para cambiar la direccion ip, y Tor hace tu ip anonima.
+
+
+2) El video estaba restingido para mi pais, con el vpn activo de opera se puede ver el video ya que emulaba como si estuviera en Europa.
+
+
+3) Si pude localizar la ip con Tor,pero no coincidia con mi ip original, ademas  no muestra la ubicacion geografica.
+
+
+4) sin VPN
+
+
+Descarga : 52.81Mbs
+
+
+Subida : 49.12Mbs
+
+
+Ping : 63ms
+
+
+
+
+
+
+
+con VPN
+
+
+Descarga : 28.4mbs
+
+
+Subida : 25.7mbs
+
+
+Ping: 121ms
+
+
+
+
+
+
+
+con TOR
+
+
+Descarga : 4.5mbs
+
+
+Subida : 3.89mbs
+
+
+Ping: 312ms
+
+
+
+
+
+
+
+5) La velocidad de los test son diferentes,ya que usando vpn o tor las rutas que toman los paquetes son mas complejas y ademas tienen procedimientos de encriptacion extra que hace que tarde mas en viajar la informacion.
+
+
+6) ping es la cantidad de tiempo en la que tarda en enviarse una peticion y que vuelva su respuesta, se mide en milisegundos, son valores distintos porque como ya dijimos tarda mas en viajar los paquetes con estos procedimientos mas complejos.
+
+
